@@ -1,2 +1,4 @@
-# supa-uk.github.io
-github.io pages
+github.io pages for the SUPA github repository
+==============================================
+
+Nothing fancy: just plain HTML.
